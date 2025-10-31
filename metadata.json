@@ -1,0 +1,5 @@
+{
+  "name": "Video Feed SOCIAL",
+  "description": "An application that allows users to create a unified video feed from various social media platforms like YouTube, TikTok, Facebook, and Instagram by simply pasting video URLs.",
+  "requestFramePermissions": []
+}
